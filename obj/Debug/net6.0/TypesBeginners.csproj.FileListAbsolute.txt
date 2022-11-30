@@ -1,0 +1,15 @@
+C:\C#\TypesBeginners\bin\Debug\net6.0\TypesBeginners.exe
+C:\C#\TypesBeginners\bin\Debug\net6.0\TypesBeginners.deps.json
+C:\C#\TypesBeginners\bin\Debug\net6.0\TypesBeginners.runtimeconfig.json
+C:\C#\TypesBeginners\bin\Debug\net6.0\TypesBeginners.dll
+C:\C#\TypesBeginners\bin\Debug\net6.0\TypesBeginners.pdb
+C:\C#\TypesBeginners\obj\Debug\net6.0\TypesBeginners.csproj.AssemblyReference.cache
+C:\C#\TypesBeginners\obj\Debug\net6.0\TypesBeginners.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\TypesBeginners\obj\Debug\net6.0\TypesBeginners.AssemblyInfoInputs.cache
+C:\C#\TypesBeginners\obj\Debug\net6.0\TypesBeginners.AssemblyInfo.cs
+C:\C#\TypesBeginners\obj\Debug\net6.0\TypesBeginners.csproj.CoreCompileInputs.cache
+C:\C#\TypesBeginners\obj\Debug\net6.0\TypesBeginners.dll
+C:\C#\TypesBeginners\obj\Debug\net6.0\refint\TypesBeginners.dll
+C:\C#\TypesBeginners\obj\Debug\net6.0\TypesBeginners.pdb
+C:\C#\TypesBeginners\obj\Debug\net6.0\TypesBeginners.genruntimeconfig.cache
+C:\C#\TypesBeginners\obj\Debug\net6.0\ref\TypesBeginners.dll
